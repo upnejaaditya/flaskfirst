@@ -1,1 +1,1 @@
-web: gunicorn app:boomi-flask 
+web: gunicorn boomi-flask:boomi-flask 
