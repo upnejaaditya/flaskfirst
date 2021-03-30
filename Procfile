@@ -1,1 +1,1 @@
-web: gunicorn flaskone:flaskone 
+web: gunicorn app:flaskone 
