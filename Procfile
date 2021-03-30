@@ -1,1 +1,1 @@
-web: gunicorn boomi-flask:boomi-flask 
+web: gunicorn flaskone:flaskone 
